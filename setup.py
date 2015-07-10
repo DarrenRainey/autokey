@@ -1,7 +1,3 @@
-# -*- coding: utf-8 -*-
-
-# Copyright (C) 2011 Chris Dekter
-#
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
 # the Free Software Foundation, either version 3 of the License, or
@@ -15,14 +11,15 @@
 # You should have received a copy of the GNU General Public License
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
+# Setup File V1.2
 from distutils.core import setup
 
 setup(
-      name="autokey",
-      version="0.90.4",
-      author="Chris Dekter",
-      author_email="cdekter@gmail.com",
-      url="http://autokey.googlecode.com/",
+      name="autokey plus",
+      version="1.0.0",
+      author="Darren Rainey",
+      author_email="darren@darrenraineys.co.uk",
+      url="https://github.com/DarrenRainey/autokey/",
       license="GPL v3",
       description="Desktop automation utility",
       long_description="""AutoKey is a desktop automation utility for Linux and X11. It allows
