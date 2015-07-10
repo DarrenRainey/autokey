@@ -1,4 +1,4 @@
-$Id$
+AutoKey PLUS
 
 Read INSTALL for installation instructions.
 
@@ -8,3 +8,7 @@ makes it highly accessible for novices, as well as a scripting interface offerin
 full flexibility and power of the Python language.
 
 This software is licensed under the GPLv3 software license.
+
+This software is based upon autokey and has been modified and maintained by me to provide new features and updates to prevents the program from breaking after a system update.
+
+Autokey plus is a rewrite of the original project autokey since it was abandoned by the original author
