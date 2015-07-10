@@ -1,5 +1,3 @@
-$Id$
-
 The full application can be installed using the setup script:
 python setup.py install
 
