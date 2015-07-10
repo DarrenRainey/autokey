@@ -7,12 +7,12 @@
 %{!?python_sitelib: %global python_sitelib %(%{__python} -c "from distutils.sysconfig import get_python_lib; print(get_python_lib())")}
 %{!?python_sitearch: %global python_sitearch %(%{__python} -c "from distutils.sysconfig import get_python_lib; print(get_python_lib(1))")}
 
-Name:           autokey
-Version:        0.82.0
+Name:           autokey plus
+Version:        1.0.0
 Release:        1
 License:        GPLv3
 Summary:        Desktop automation utility
-Url:            http://autokey.googlecode.com
+Url:            https://github.com/DarrenRainey/autokey/
 Group:          System/X11/Utilities
 Source:         %{name}_%{version}.tar.gz
 BuildRequires:  python-base
